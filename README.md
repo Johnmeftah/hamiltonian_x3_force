@@ -4,7 +4,7 @@ This repository solves Problem 13.26 from a classical mechanics textbook using b
 
 ## Problem Statement
 
-Find the Hamiltonian \( H \) for a mass \( m \) confined to move along the \( x \)-axis and subject to a nonlinear force:
+Finding the Hamiltonian \( H \) for a mass \( m \) confined to move along the \( x \)-axis and subject to a nonlinear force:
 \[
 F_x = -k x^3 \quad \text{where} \quad k > 0
 \]
@@ -28,7 +28,3 @@ Sketch and describe the phase-space orbits.
   \]
   which forms closed orbits in the \( (x, p) \) plane resembling flattened ellipses.
 
-## Files
-
-- `phase_space_plot.py`: Python script that plots the phase-space orbit
-- `hamiltonian_solution.tex`: LaTeX document with step-by-step derivation
